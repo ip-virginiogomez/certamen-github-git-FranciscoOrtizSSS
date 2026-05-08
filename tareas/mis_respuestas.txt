@@ -10,21 +10,21 @@ PREGUNTA 1 (5 pts)
 ¿Cuál es la diferencia entre "git add" y "git commit"?
 
 Tu respuesta:
-[Escribe aquí]
+[el git add es para agregar algo a alguna carpeta y el git commit es para guardar cualquier cambio que se haga]
 
 ----------------------------------------------------------------
 PREGUNTA 2 (5 pts)
 ¿Qué hace el comando "git pull"? ¿Cuándo debes usarlo?
 
 Tu respuesta:
-[Escribe aquí]
+[Para actualizar el repositorio y se utiliza más que nada cuando uno deja de trabajar y vuelve para ir trabajando lo mas actualizado posible]
 
 ----------------------------------------------------------------
 PREGUNTA 3 (5 pts)
 ¿Qué diferencia hay entre un repositorio local y uno remoto?
 
 Tu respuesta:
-[Escribe aquí]
+[El repositorio local es el que esta en el computador y el remoto en el servidor llamado nube]
 
 ----------------------------------------------------------------
 PREGUNTA 4 (5 pts)

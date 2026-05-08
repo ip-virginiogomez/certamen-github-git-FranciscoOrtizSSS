@@ -32,7 +32,7 @@ Escribe la secuencia completa de comandos para subir un nuevo
 archivo llamado "datos.csv" a GitHub (desde git add hasta push):
 
 Tu respuesta:
-[Para subir un archivo "d"atos.csv" a GitHub, la secuencia estándar comienza preparando el archivo para el seguimiento, 
+[Para subir un archivo "datos.csv" a GitHub, la secuencia estándar comienza preparando el archivo para el seguimiento, 
 registrando el cambio y enviándolo al servidor remoto. Utilizando git add "datos.csv" para añadir el archivo al área de preparación 
 (staging area) luego, ejecuta git commit -m "Agregar archivo datos.csv" para crear una instantánea local del cambio con un mensaje descriptivo.
  Finalmente, usa el comando git push origin main. verificar "main" sea el nombre de tu rama  para cargar los datos a tu repositorio en la nube]

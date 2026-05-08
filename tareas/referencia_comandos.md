@@ -14,7 +14,7 @@ git status          # Ver estado actual
 git add archivo     # Preparar archivo
 git add .           # Preparar todos los cambios
 git commit -m "mensaje descriptivo"   # Confirmar cambios
-git push origin main                  # Subir a GitHub
+                 # Subir a GitHub
 git pull origin main                  # Bajar cambios de GitHub
 ```
 
